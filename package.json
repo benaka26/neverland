@@ -1,4 +1,7 @@
 {
+  "homepage": "http://benaka26.github.io/neverland",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
   "name": "neverland",
   "version": "0.1.0",
   "private": true,
