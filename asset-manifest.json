@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/neverland/static/css/main.367537fb.chunk.css",
-    "main.js": "/neverland/static/js/main.abdf6e33.chunk.js",
-    "main.js.map": "/neverland/static/js/main.abdf6e33.chunk.js.map",
-    "runtime-main.js": "/neverland/static/js/runtime-main.3ba4bb14.js",
-    "runtime-main.js.map": "/neverland/static/js/runtime-main.3ba4bb14.js.map",
-    "static/js/2.81085028.chunk.js": "/neverland/static/js/2.81085028.chunk.js",
-    "static/js/2.81085028.chunk.js.map": "/neverland/static/js/2.81085028.chunk.js.map",
-    "static/js/3.c555ac11.chunk.js": "/neverland/static/js/3.c555ac11.chunk.js",
-    "static/js/3.c555ac11.chunk.js.map": "/neverland/static/js/3.c555ac11.chunk.js.map",
-    "index.html": "/neverland/index.html",
-    "static/css/main.367537fb.chunk.css.map": "/neverland/static/css/main.367537fb.chunk.css.map",
-    "static/js/2.81085028.chunk.js.LICENSE.txt": "/neverland/static/js/2.81085028.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/neverland/static/media/logo.6ce24c58.svg"
+    "main.css": "http://localhost:3000/neverland/static/css/main.367537fb.chunk.css",
+    "main.js": "http://localhost:3000/neverland/static/js/main.8ef4f8e4.chunk.js",
+    "main.js.map": "http://localhost:3000/neverland/static/js/main.8ef4f8e4.chunk.js.map",
+    "runtime-main.js": "http://localhost:3000/neverland/static/js/runtime-main.bea2ca96.js",
+    "runtime-main.js.map": "http://localhost:3000/neverland/static/js/runtime-main.bea2ca96.js.map",
+    "static/js/2.81085028.chunk.js": "http://localhost:3000/neverland/static/js/2.81085028.chunk.js",
+    "static/js/2.81085028.chunk.js.map": "http://localhost:3000/neverland/static/js/2.81085028.chunk.js.map",
+    "static/js/3.c555ac11.chunk.js": "http://localhost:3000/neverland/static/js/3.c555ac11.chunk.js",
+    "static/js/3.c555ac11.chunk.js.map": "http://localhost:3000/neverland/static/js/3.c555ac11.chunk.js.map",
+    "index.html": "http://localhost:3000/neverland/index.html",
+    "static/css/main.367537fb.chunk.css.map": "http://localhost:3000/neverland/static/css/main.367537fb.chunk.css.map",
+    "static/js/2.81085028.chunk.js.LICENSE.txt": "http://localhost:3000/neverland/static/js/2.81085028.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "http://localhost:3000/neverland/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ba4bb14.js",
+    "static/js/runtime-main.bea2ca96.js",
     "static/js/2.81085028.chunk.js",
     "static/css/main.367537fb.chunk.css",
-    "static/js/main.abdf6e33.chunk.js"
+    "static/js/main.8ef4f8e4.chunk.js"
   ]
 }
